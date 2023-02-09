@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nyACFHr+RfuKmbWZRfXOw0/aX3XE7mtFzKvHYRkb3gU=",
+  "Source": "BIT.Cliente.API",
+  "BasePath": "_content/BIT.Cliente.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

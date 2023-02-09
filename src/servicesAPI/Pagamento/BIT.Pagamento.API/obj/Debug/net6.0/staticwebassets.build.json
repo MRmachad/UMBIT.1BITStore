@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YdKHCZtCvvYOysaE0Lk7RR//PYsVX5M8y2OCZM4vqvU=",
+  "Source": "BIT.Pagamento.API",
+  "BasePath": "_content/BIT.Pagamento.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

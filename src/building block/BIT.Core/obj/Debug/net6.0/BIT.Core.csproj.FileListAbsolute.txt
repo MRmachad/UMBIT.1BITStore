@@ -1,0 +1,12 @@
+D:\Dev\ByMySelf\1BITStore\src\building block\BIT.Core\bin\Debug\net6.0\BIT.Core.deps.json
+D:\Dev\ByMySelf\1BITStore\src\building block\BIT.Core\bin\Debug\net6.0\BIT.Core.dll
+D:\Dev\ByMySelf\1BITStore\src\building block\BIT.Core\bin\Debug\net6.0\BIT.Core.pdb
+D:\Dev\ByMySelf\1BITStore\src\building block\BIT.Core\obj\Debug\net6.0\BIT.Core.csproj.AssemblyReference.cache
+D:\Dev\ByMySelf\1BITStore\src\building block\BIT.Core\obj\Debug\net6.0\BIT.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\ByMySelf\1BITStore\src\building block\BIT.Core\obj\Debug\net6.0\BIT.Core.AssemblyInfoInputs.cache
+D:\Dev\ByMySelf\1BITStore\src\building block\BIT.Core\obj\Debug\net6.0\BIT.Core.AssemblyInfo.cs
+D:\Dev\ByMySelf\1BITStore\src\building block\BIT.Core\obj\Debug\net6.0\BIT.Core.csproj.CoreCompileInputs.cache
+D:\Dev\ByMySelf\1BITStore\src\building block\BIT.Core\obj\Debug\net6.0\BIT.Core.dll
+D:\Dev\ByMySelf\1BITStore\src\building block\BIT.Core\obj\Debug\net6.0\refint\BIT.Core.dll
+D:\Dev\ByMySelf\1BITStore\src\building block\BIT.Core\obj\Debug\net6.0\BIT.Core.pdb
+D:\Dev\ByMySelf\1BITStore\src\building block\BIT.Core\obj\Debug\net6.0\ref\BIT.Core.dll
